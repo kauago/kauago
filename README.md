@@ -4,14 +4,13 @@
 
 Eu sou Kauã Gomes Souza, um desenvolvedor web com foco em front-end. Tenho experiência em HTML, CSS e JavaScript, e estou constantemente aprimorando minhas habilidades e aprendendo novas tecnologias. Este repositório especial serve como uma introdução ao meu trabalho e minhas competências.
 
-<!-- ![Kauã Gomes Souza](https://via.placeholder.com/150) Substitua por sua foto de perfil do Instagram -->
+[Kauã Gomes Souza](https://portifoliocomkauadeveloper.netlify.app/img/my.jpg) 
 
 ### Sobre Mim
 - **Nome:** Kauã Gomes Souza
 - **Idade:** 18 anos (farei 19 anos em 28 de agosto)
-- **Localização:** Rua das Acácias, número 40
 - **Contato:** [kauago1221@gmail.com](mailto:kauago1221@gmail.com)
-- **Telefone:** +55 85 9817048623
+
 
 ### Habilidades
 - **HTML**: ![HTML](https://progress-bar.dev/90)
